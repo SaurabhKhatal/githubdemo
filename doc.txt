@@ -1,0 +1,4 @@
+
+Hello, welcome to git and github.
+
+This session cvers the git and github usage.
